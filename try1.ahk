@@ -61,3 +61,8 @@ return
 
 :*:,class::
 send {Home}class{space}{end}:{enter}{enter}pass{up}def __init__(self):{enter}{enter}pass{up}
+
+
+~+^3::
+Send TODO
+return
